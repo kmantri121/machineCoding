@@ -1,4 +1,4 @@
-package com.karan.splitwise
+package com.karan.splitwise;
    
    public class User{
 
